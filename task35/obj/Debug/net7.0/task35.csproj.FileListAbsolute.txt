@@ -1,0 +1,15 @@
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/bin/Debug/net7.0/task35
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/bin/Debug/net7.0/task35.deps.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/bin/Debug/net7.0/task35.runtimeconfig.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/bin/Debug/net7.0/task35.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/bin/Debug/net7.0/task35.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/obj/Debug/net7.0/task35.csproj.AssemblyReference.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/obj/Debug/net7.0/task35.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/obj/Debug/net7.0/task35.AssemblyInfoInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/obj/Debug/net7.0/task35.AssemblyInfo.cs
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/obj/Debug/net7.0/task35.csproj.CoreCompileInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/obj/Debug/net7.0/task35.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/obj/Debug/net7.0/refint/task35.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/obj/Debug/net7.0/task35.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/obj/Debug/net7.0/task35.genruntimeconfig.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task35/obj/Debug/net7.0/ref/task35.dll

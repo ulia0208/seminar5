@@ -1,0 +1,15 @@
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/obj/Debug/net7.0/task32.csproj.AssemblyReference.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/obj/Debug/net7.0/task32.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/obj/Debug/net7.0/task32.AssemblyInfoInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/obj/Debug/net7.0/task32.AssemblyInfo.cs
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/obj/Debug/net7.0/task32.csproj.CoreCompileInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/bin/Debug/net7.0/task32
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/bin/Debug/net7.0/task32.deps.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/bin/Debug/net7.0/task32.runtimeconfig.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/bin/Debug/net7.0/task32.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/bin/Debug/net7.0/task32.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/obj/Debug/net7.0/task32.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/obj/Debug/net7.0/refint/task32.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/obj/Debug/net7.0/task32.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/obj/Debug/net7.0/task32.genruntimeconfig.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/task32/obj/Debug/net7.0/ref/task32.dll

@@ -1,0 +1,15 @@
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/obj/Debug/net7.0/task34.csproj.AssemblyReference.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/obj/Debug/net7.0/task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/obj/Debug/net7.0/task34.AssemblyInfoInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/obj/Debug/net7.0/task34.AssemblyInfo.cs
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/obj/Debug/net7.0/task34.csproj.CoreCompileInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/bin/Debug/net7.0/task34
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/bin/Debug/net7.0/task34.deps.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/bin/Debug/net7.0/task34.runtimeconfig.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/bin/Debug/net7.0/task34.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/bin/Debug/net7.0/task34.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/obj/Debug/net7.0/task34.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/obj/Debug/net7.0/refint/task34.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/obj/Debug/net7.0/task34.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/obj/Debug/net7.0/task34.genruntimeconfig.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/sem5/sem5 hw/task34/obj/Debug/net7.0/ref/task34.dll

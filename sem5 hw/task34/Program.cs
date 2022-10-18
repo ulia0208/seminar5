@@ -2,29 +2,44 @@
 
 Console.Clear();
 
-int num = new Random().Next(5,30);
+int num = new Random().Next(5,100);
 int[]  myArray=new int[num];
 
-for (int i=0; i<num; i++)
+void CreateNewArray(int[] array)
 {
-    myArray[i]=new Random().Next(100, 1000);   
+    for (int i=0; i<num; i++)
+    {
+        array[i]=new Random().Next(-100, 100);   
+    }
 }
+
+
+CreateNewArray(myArray);
 
 Console.WriteLine("чисел в массиве - " +num);
 Console.WriteLine($"Заданный случайным образом массив: [{String.Join(", ",  myArray)}]");
 
-int j=0;
-int k=0;
 
-while (j<num)
+
+int SelectArray(int[] array, int number)
 {
-    if (myArray[j]%2==0)
-    {  
-        k++;
+    int j=0;
+    int k=0;
+
+    while (j<number)
+    {
+         if (array[j]%2==0)
+        {  
+            k++;
+            
+        }
+        j++;
     }
-    j++;
+    return k;
 }
 
-Console.WriteLine("четных чисел = "+k);
+
+
+Console.WriteLine($"четных чисел = {SelectArray(myArray, num)}");
     //////////////
 

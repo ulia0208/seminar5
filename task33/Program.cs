@@ -26,9 +26,9 @@ string ReleaseArray (int[] array, int number)
 Console.Clear();
 Console.Write("Введите кол-во элементов массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
-int[] array = new int[n];
-NewArray(array);
-Console.WriteLine($"Начальнаый массив: [{string.Join(", ", array)}]");
+int[] Myarray = new int[n];
+NewArray(Myarray);
+Console.WriteLine($"Начальнаый массив: [{string.Join(", ", Myarray)}]");
 Console.Write("Введите число, которое Вы хотите найти: ");
 int m = Convert.ToInt32(Console.ReadLine());
-Console.Write($"{ReleaseArray(array, m)}");
+Console.Write($"{ReleaseArray(Myarray, m)}");
